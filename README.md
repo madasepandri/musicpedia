@@ -1,6 +1,6 @@
 # Instruksi Menjalankan Proyek Musicpedia dari GitHub
 
-Dokumen ini menjelaskan cara mengambil (clone) dan menjalankan proyek aplikasi `musicpedia` di komputer lokal untuk keperluan praktikum. Instruksi dan penjelasan kode ada di file JOBSHEET.md
+Dokumen ini menjelaskan cara mengambil (clone) dan menjalankan proyek aplikasi `musicpedia` di komputer lokal untuk keperluan praktikum. Instruksi dan penjelasan kode ada di file **JOBSHEET.md**.
 
 ## Prasyarat
 
@@ -70,7 +70,7 @@ Proyek ini dikonfigurasi untuk menggunakan **SQLite** secara default untuk kemud
 
 - **Buat file database SQLite:**
   Buat sebuah file kosong bernama `database.sqlite` di dalam direktori `database`.
-  -   Untuk Windows:
+  -   Untuk Windows (command prompt):
       ```cmd
       echo. > database\database.sqlite
       ```
